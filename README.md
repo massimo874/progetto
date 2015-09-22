@@ -1,3 +1,5 @@
 #progetto per corso git
 #prima lezione
-@stage dei file
+##stage dei file
+
+##creato license.md
